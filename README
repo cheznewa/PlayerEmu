@@ -1,0 +1,3 @@
+Usage ::::::::::::
+COLOR=123456 OUTPUT=iconskitpath geniconskit.bash
+TIME=150 ICONSKIT=iconskitpath playeremu.bash video.avi outputemulatedplayer.avi
